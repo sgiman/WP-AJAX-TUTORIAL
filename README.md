@@ -2,10 +2,12 @@
  
 ## AJAX in WordPress (2021)
 
-Tutorial
+Tutorial:
+
 https://misha.agency/course/ajax-wordpress
 
 Misha Rudrastykh Studio
+
 https://misha.agency/
 
 
