@@ -251,7 +251,7 @@ jQuery( function( $ ) {
 //
 // 	var request = new XMLHttpRequest();
 //
-// 	request.open('POST', misha.ajax_url, true);
+// 	request.open('POST', sgiman.ajax_url, true);
 //
 // 	request.send( new FormData( form ) );
 //
